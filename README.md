@@ -1,7 +1,3 @@
-@page "/"
-
-<PageTitle>My Home</PageTitle>
-
 <h1>Quick DotNet Environment Setup!</h1>
 <h2>Clarifications Confusiosiosiosions!</h2>
 <li>VS Code(All) vs Visual Studio(Windows)</li>
