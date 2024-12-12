@@ -1,4 +1,4 @@
-<h1>Quick DotNet Environment Setup!</h1>
+<h1 style="color:crimson">Quick DotNet Environment Setup!</h1>
 <h2>Clarifications Confusiosiosiosions!</h2>
 <li>VS Code(All) vs Visual Studio(Windows)</li>
 <br/>
@@ -10,7 +10,7 @@
 
 <br/>
 
-<h1>Blazor Bees! Lets See All sharply--- C#</h1>
+<h1 style="color:darkblue">Blazor Bees! Lets See All sharply--- C#</h1>
 <li>Types: client, server side</li>
 <li>Modes: Webassembly , Server, Auto</li>
 <li>Razor,C#</li>
