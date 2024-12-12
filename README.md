@@ -1,3 +1,4 @@
+<a href="https://youtu.be/eOam-0rYotM">Detailed Video in Youtube</a>
 <h1 style="color:crimson">Quick DotNet Environment Setup!</h1>
 <h2>Clarifications Confusiosiosiosions!</h2>
 <li>VS Code(All) vs Visual Studio(Windows)</li>
